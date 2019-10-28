@@ -1,0 +1,14 @@
+Estructura de niveles.txt
+
+Primera linea: Número de niveles (n)
+Siguientes n lineas: Descripción de los niveles
+
+Estructura de la descripción del nivel:
+    x (número de coches)  
+    x strings de 4 caracteres (orientación(H o V), columna, fila y longitud (2~4))
+
+    Ejemplo:
+        3 
+        "H002"
+        "V554"
+        "V502"
